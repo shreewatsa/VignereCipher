@@ -6,4 +6,6 @@ Note:
       eg. let, plainText = "back" , then plainTextList = [1, 0, 2, 10] 
       -> index of 'a' = 0 and 'z' = 25 !
   (2) keystream is the string of the length equal to that of plainText or cipherText. 
+ 
+Without vignere table , we can also implement the vignere cipher. Check VignereCipherWithoutTable.py file.
     
