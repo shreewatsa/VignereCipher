@@ -7,5 +7,5 @@ Note:
       -> index of 'a' = 0 and 'z' = 25 !
   (2) keystream is the string of the length equal to that of plainText or cipherText. 
  
-Without vignere table , we can also implement the vignere cipher. Check VignereCipherWithoutTable.py file.
+Without vignere table , we can also implement the vignere cipher. Check VignereCipherWithoutTable.ipynb file.
     
